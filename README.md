@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a university student.
 - 🌱 I’m currently learning java!
-- 📫 How to reach me: ready...
+- 📫 How to reach me:  [Twitter - @username](https://twitter.com/AsKonapyo)
 <br>
 
 
